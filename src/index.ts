@@ -8,7 +8,7 @@ const API =
 
 const TOPICS: Record<string, string[]> = {
   Housing: ["housing", "planning", "tenant", "landlord", "rent", "leasehold"],
-  Trade: ["tariff", "trade", "customs", "import", "export"],
+  Trade: ["tariffs", "trade", "customs", "import", "export"],
   Tech: ["artificial intelligence", "online safety", "digital", "data"],
 };
 
